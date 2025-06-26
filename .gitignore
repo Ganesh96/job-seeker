@@ -30,3 +30,4 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.bak
+package-lock.json
